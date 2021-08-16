@@ -139,7 +139,6 @@
                     while(count < limiter){
                         count++;
                         c += 1;
-                        // http://meow.meow, http://localhost:8000
                         document.querySelectorAll('a').forEach(function(v) {
                             v.click();
                             document.querySelector('#' + v.id + '+span').innerHTML = ' (' + c + ')';
