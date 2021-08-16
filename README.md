@@ -1,6 +1,8 @@
 # Apocalypse
 This is a POST-Ping-Flood-Attack Tool.  
 
+By default, it tries to fire **100000 requests per millisecond** (@ line no. 128, var limiter, and line no. 151 for the milliseconds which is currently defaulted to 0). You can modify it @ your will.  
+
 Use ' -incognito --disable-ipc-flooding-protection' flag before running this tool in Chrome (right click on Chrome short-cut, go to properties, paste the flag at the end inside 'Target')  
 
 Pass single or multiple comma separtated URLs in the textarea and click the button to initiate the attack.
