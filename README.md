@@ -1,7 +1,7 @@
 # Apocalypse
 This is a POST-Ping-Flood-Attack Tool.  
 
-By default, it tries to fire **1 request per millisecond, or ASAP** (@ line no. 128, var limiter, and line no. 151 for the milliseconds which is currently defaulted to 0). You can modify it @ your will. Be generous with **limiter**, **increasing beyond what your RAM can handle might end up crashing your browser**. Check Browser console for it's operation validity.  
+By default, it tries to fire **1 request per millisecond, or ASAP** (@ line no. 128, var limiter, and line no. 151 for the milliseconds which is currently defaulted to 0). You can modify it @ your will. Be generous with **limiter**, **increasing beyond what your RAM can handle might end up crashing your browser**. Check Browser console logs for it's operation validity.  
 
 Use ' -incognito --disable-ipc-flooding-protection' flag before running this tool in Chrome (right click on Chrome short-cut, go to properties, paste the flag at the end inside 'Target')  
 
