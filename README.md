@@ -5,7 +5,11 @@ By default, it tries to fire **1 request per millisecond, or ASAP** (@ line no. 
 
 Use ' **-incognito --disable-ipc-flooding-protection**' flag before running this tool in Chrome (right click on Chrome short-cut, go to properties, paste the flag at the end inside 'Target')  
 
-Pass single or multiple comma separtated URLs in the textarea and click the button to initiate the attack.
+Pass single or multiple comma separtated URLs in the textarea and click the button to initiate the attack.  
+
+**Remember:**  
+**(1). more URLS = more load for user's machine**  
+**(2). higher value of limiter = more load for user's machine**  
 
 ![image](https://user-images.githubusercontent.com/6196046/129509071-5040c5fc-d112-4129-862a-76c9258f5763.png)  
 
