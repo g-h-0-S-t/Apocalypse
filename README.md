@@ -8,8 +8,8 @@ Use ' **-incognito --disable-ipc-flooding-protection**' flag before running this
 Pass single or multiple comma separtated URLs in the textarea and click the button to initiate the attack.  
 
 **Remember:**  
-**(1). more URLS = more load for user's machine**  
-**(2). higher value of limiter = more load for user's machine**  
+**(1). more URLS = more load for your machine/device**  
+**(2). higher values of limiter = more load for your machine/device**  
 
 ![image](https://user-images.githubusercontent.com/6196046/129509071-5040c5fc-d112-4129-862a-76c9258f5763.png)  
 
