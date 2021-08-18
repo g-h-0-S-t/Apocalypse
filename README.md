@@ -7,4 +7,9 @@ Use ' -incognito --disable-ipc-flooding-protection' flag before running this too
 
 Pass single or multiple comma separtated URLs in the textarea and click the button to initiate the attack.
 
-![image](https://user-images.githubusercontent.com/6196046/129509071-5040c5fc-d112-4129-862a-76c9258f5763.png)
+![image](https://user-images.githubusercontent.com/6196046/129509071-5040c5fc-d112-4129-862a-76c9258f5763.png)  
+
+**IMPORTANT:**  
+THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY!  
+IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT.  
+BY USING THIS SOFTWARE YOU AGREE WITH THESE TERMS.
