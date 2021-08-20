@@ -1,4 +1,6 @@
-# Apocalypse (Disclaimer : Usage of profanity. Proceed cautiously.)<img src="https://i.pinimg.com/originals/23/a1/1f/23a11f14ab93d3ed4541960141e380ad.gif" width="100" />
+<img src="https://i.pinimg.com/originals/23/a1/1f/23a11f14ab93d3ed4541960141e380ad.gif" width="100" />  
+
+# Apocalypse (Disclaimer : Usage of profanity. Proceed cautiously.)
 This is a POST-Ping-Flood-Attack Tool (**Ping flood / ICMP flood**, a **Denial of Service (DoS) attack tool**).  
 
 By default, it tries to fire **1 request per millisecond, or ASAP** (@ line no. 128, **var limiter**, and line no. 150 for the milliseconds which is currently defaulted to 0). You can modify it @ your will. Be generous with **limiter**, **increasing beyond what your RAM & CPU can handle might end up crashing your browser**. Check Browser **console logs** & **network tab** for it's operational validity.  
