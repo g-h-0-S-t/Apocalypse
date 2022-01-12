@@ -1,7 +1,7 @@
 javascript:
 'use strict';
 
-document.innerHTML = `
+document.body.innerHTML = `
 <!DOCTYPE html>
 
 <!-- MIT License
