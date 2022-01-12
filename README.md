@@ -13,6 +13,9 @@ Pass single or multiple comma separated URLs in the textarea and click the butto
 **(1). more URLS = more load for your machine/device**  
 **(2). higher values of limiter = more load for your machine/device**  
 
+**UPDATE:**  
+**αποκάλυψη - A javascript version that can be saved as a bookmark.** 
+
 ![129509071-5040c5fc-d112-4129-862a-76c9258f5763](https://user-images.githubusercontent.com/6196046/147343549-5d3f2e42-a931-4790-87e1-88f3d90b5c98.png). 
 
 **IMPORTANT:**  
